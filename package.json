@@ -1,22 +1,20 @@
 {
-  "name": "humble-object-pattern",
+  "name": "node-typescript-template",
   "version": "1.0.0",
-  "description": "Examples of implementing the humble object pattern with tests",
-  "homepage": "https://github.com/mkrtchian/humble-object-pattern#readme",
+  "description": "Typescript template for Node.js projects",
+  "homepage": "https://github.com/mkrtchian/node-typescript-template#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkrtchian/humble-object-pattern.git"
+    "url": "git+https://github.com/mkrtchian/node-typescript-template.git"
   },
   "keywords": [
-    "humble-object-pattern",
-    "unit-testing",
-    "hexagonal-architecture",
-    "functional-architecture"
+    "typescript",
+    "template"
   ],
   "author": "Roman Mkrtchian",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mkrtchian/humble-object-pattern/issues"
+    "url": "https://github.com/mkrtchian/node-typescript-template/issues"
   },
   "type": "module",
   "engines": {
